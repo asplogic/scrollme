@@ -1,0 +1,19 @@
+{
+  "name": "scrollme",
+  "version": "1.0.0",
+  "description": "**This project may be archived in the not too distant future**",
+  "main": "jquery.scrollme.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asplogic/scrollme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asplogic/scrollme/issues"
+  },
+  "homepage": "https://github.com/asplogic/scrollme#readme"
+}
